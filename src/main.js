@@ -76,11 +76,11 @@ var myTest = 20;
 // +=
 myTest += 2;
 console.log('+=', myTest);
-
 // –=
 myTest -= 2;
 console.log('-=',myTest);
 // *=
+
 myTest *= 8;
 console.log('*=', myTest);
 // /=
@@ -179,3 +179,6 @@ var str = 'Мама мыла раму, рама мыла маму'
 
 console.log(str.toUpperCase())
 console.log(str.toLowerCase())
+
+
+
